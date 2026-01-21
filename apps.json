@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kanban & Eisenhower",
+    "path": "apps/kanban/index.html",
+    "icon": "✅"
+  },
+  {
+    "name": "3-Way Merge Tool",
+    "path": "apps/merge-tool/index.html",
+    "icon": "🔀"
+  },
+  {
+    "name": "Text Diff Tool",
+    "path": "apps/text-diff/index.html",
+    "icon": "📝"
+  }
+]
